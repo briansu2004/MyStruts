@@ -2,24 +2,6 @@
 
 Kickstarting a Struts application involves setting up the Struts framework, creating a basic project structure, configuring it, and developing your application. Struts is a framework for building Java web applications. Here's a step-by-step guide to get you started:
 
-High level:
-
-- Basic app
-- Add jetty plugin
-- Add a new jsp
-- Verify the jsp
-- Add Struts
-- Add log4j
-- Update web.xml
-- Add struts.xml
-- Run the app with jetty
-- Download tomcat
-- Config tomcat
-- Start tomcat
-- Package the app
-- Deploy the app
-- Run the app with tomcat
-
 ## Step 1. Prerequisites
 
 - Java Development Kit (JDK)
@@ -40,14 +22,6 @@ mvn archetype:generate -DgroupId=com.example -DartifactId=my-struts-app -Darchet
 This will create a basic web application structure.
 
 ## Step 3. Update pom.xml - add Struts Dependencies
-
-Struts
-
-jetty plugin
-
-log4j
-
-1.7 -> 1.8
 
 Open the `pom.xml` file and add Struts dependencies:
 
