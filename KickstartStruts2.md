@@ -12,6 +12,8 @@ High level:
 - Add log4j
 - Update web.xml
 - Add struts.xml
+- Create Java Action
+- Create JSP View
 - Run the app with jetty
 - Download tomcat
 - Config tomcat
