@@ -1,5 +1,20 @@
 # Kickstart a Struts app
 
+- [Step 1. Prerequisites](#step-1-prerequisites)
+- [Step 2. Create a Java Project](#step-2-create-a-java-project)
+- [Step 3. Update pom.xml - add Struts Dependencies](#step-3-update-pomxml---add-struts-dependencies)
+- [Step 4. Struts Configuration](#step-4-struts-configuration)
+- [Step 5. Create Actions](#step-5-create-actions)
+- [Step 6. Create JSP View](#step-6-create-jsp-view)
+- [Step 7. Build a war file](#step-7-build-a-war-file)
+- [Step 8. Download the tomcat](#step-8-download-the-tomcat)
+- [Step 9. Install the tomcat server](#step-9-install-the-tomcat-server)
+- [Step 10. Configure the tomcat server](#step-10-configure-the-tomcat-server)
+- [Step 11. Start the tomcat server](#step-11-start-the-tomcat-server)
+- [Step 12. Verify the tomcat server](#step-12-verify-the-tomcat-server)
+- [Step 13. Deployment the war to tomcat](#step-13-deployment-the-war-to-tomcat)
+- [Step 14. Run the Struts app](#step-14-run-the-struts-app)
+
 Kickstarting a Struts application involves setting up the Struts framework, creating a basic project structure, configuring it, and developing your application. Struts is a framework for building Java web applications. Here's a step-by-step guide to get you started:
 
 High level:
@@ -156,13 +171,13 @@ A war file `my-struts-app.war` will be created in the `target` folder.
 
 ## Step 8. Download the tomcat
 
-https://tomcat.apache.org/
+<https://tomcat.apache.org/>
 
-https://tomcat.apache.org/download-10.cgi
+<https://tomcat.apache.org/download-10.cgi>
 
 64-bit Windows zip
 
-https://dlcdn.apache.org/tomcat/tomcat-10/v10.1.15/bin/apache-tomcat-10.1.15-windows-x64.zip
+<https://dlcdn.apache.org/tomcat/tomcat-10/v10.1.15/bin/apache-tomcat-10.1.15-windows-x64.zip>
 
 ## Step 9. Install the tomcat server
 
